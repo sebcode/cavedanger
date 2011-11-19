@@ -13,5 +13,7 @@ Use make.php to convert level.svg to source code:
 
 Then compile and run the XCode project.
 
+<img src="https://github.com/sebcode/cavedanger/raw/master/screenshot.png">
+
 - - - 
 by Sebastian Volland
